@@ -1,9 +1,3 @@
-    <title>侯毅的个人简历</title>
-    <meta name="viewport" content="width=device-width">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="A resume uses for hunting a job as a web programmer">
-    <meta name="keywords" content="ihoey的个人简历,梦魇小栈,侯毅的个人简历">
-    <link rel="shortcut icon" href="https://blog.ihoey.com/favicon.ico">
 # 个人简历 · 侯毅
 
 [TOC]
@@ -151,20 +145,3 @@
 ## 兴趣爱好
 - 喜欢听歌，散步，打羽毛球；
 - 喜欢交朋友、有空也喜欢看书；
-
-    <!-- 多说评论框 start -->
-  <div class="ds-thread" data-thread-key="/resume" data-title="侯毅的个人简历" data-url="https://ihoey.github.io/resume/"></div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"stack"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//oisha19l0.qnssl.com/custom_embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0]
-     || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-  </script>
-<!-- 多说公共JS代码 end -->
