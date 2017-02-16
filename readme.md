@@ -1,3 +1,9 @@
+    <title>侯毅的个人简历</title>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="A resume uses for hunting a job as a web programmer">
+    <meta name="keywords" content="ihoey的个人简历,梦魇小栈,侯毅的个人简历">
+    <link rel="shortcut icon" href="https://blog.ihoey.com/favicon.ico">
 # 个人简历 · 侯毅
 
 [TOC]
@@ -18,6 +24,19 @@
 - 工作地区：北京
 - 目前状况：我目前处于离职状态，可立即上岗
 - 期望薪资：10K-13K
+
+## 教育经历
+
+2012.03 - 2014.07 [西南石油大学]-(专科)
+2008.09 - 2011.07 [千佛中学]-(高中)
+2005.09 - 2008.07 [狮子中学]-(初中)
+2000.09 - 2005.07 [狮子小学]-(小学)
+<!-- - [1994年末出生] [1995,1996,1997,1998,1999.09]        (5岁上小学)
+- [1999年上小学] [2000,2001,2002,2003,2004,2005.07]   (6年)
+- [2005年上初中] [2006,2007,2008.07]                  (3年)
+- [2008年上高中] [2009,2010,2011.07]                  (3年)
+- [2012年上大学] [2012.03,2013,2014.07]               (2.5年)
+- [于2014年上班] [2015,2016.12]                       (2年) -->
 
 ## 专业技能
 
@@ -43,20 +62,6 @@
 - 薪资：8001-10000元/月
 - 企业性质：民营
 - 规模：20-99人
-
-## 教育经历
-
-2012.03 - 2014.07 [西南石油大学]-(专科)
-2008.09 - 2011.07 [千佛中学]-(高中)
-2005.09 - 2008.07 [狮子中学]-(初中)
-2000.09 - 2005.07 [狮子小学]-(小学)
-<!-- - [1994年末出生] [1995,1996,1997,1998,1999.09]        (5岁上小学)
-- [1999年上小学] [2000,2001,2002,2003,2004,2005.07]   (6年)
-- [2005年上初中] [2006,2007,2008.07]                  (3年)
-- [2008年上高中] [2009,2010,2011.07]                  (3年)
-- [2012年上大学] [2012.03,2013,2014.07]               (2.5年)
-- [于2014年上班] [2015,2016.12]                       (2年) -->
-
 
 ## 工作描述
 
@@ -146,3 +151,20 @@
 ## 兴趣爱好
 - 喜欢听歌，散步，打羽毛球；
 - 喜欢交朋友、有空也喜欢看书；
+
+    <!-- 多说评论框 start -->
+  <div class="ds-thread" data-thread-key="/resume" data-title="侯毅的个人简历" data-url="https://ihoey.github.io/resume/"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"stack"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//oisha19l0.qnssl.com/custom_embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0]
+     || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+  </script>
+<!-- 多说公共JS代码 end -->
