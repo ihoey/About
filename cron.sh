@@ -1,3 +1,4 @@
+cd /root/resume/
 echo "_______" >> temp.txt
 git add .
 git commit -m"mod"
