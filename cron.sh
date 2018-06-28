@@ -1,12 +1,14 @@
 #!/bin/bash
 
+DATE=`date`
+
 cd /data/www/resume/
 
 echo "_______" >> temp.txt
 
 git add --all
 
-git commit -m date
+git commit -m "$DATE"
 
 git push origin master
 
