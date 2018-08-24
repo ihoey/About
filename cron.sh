@@ -5,7 +5,7 @@ TEXT=`curl https://v1.hitokoto.cn |grep hitokot |cut -d'"' -f4`
 
 cd /data/www/resume/
 
-echo TEXT >> text.log
+echo $TEXT >> text.log
 
 git add --all
 
