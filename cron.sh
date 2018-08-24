@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DATE=`date`
-TEXT=`curl https://v1.hitokoto.cn |gr | grep hitokot | cut -d'"' -f4`
+TEXT=`curl https://v1.hitokoto.cn |grep hitokot |cut -d'"' -f4`
 
 cd /data/www/resume/
 
