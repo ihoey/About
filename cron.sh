@@ -11,6 +11,8 @@ git add --all
 
 git commit -m "$TEXT"
 
+git pull origin master
+
 git push origin master
 
 git push coding master
