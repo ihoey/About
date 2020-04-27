@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DATE=`date`
-TEXT=`curl https://v1.hitokoto.cn |grep hitokot |cut -d'"' -f4`
+TEXT=`curl https://v1.hitokoto.cn | python -c "import sys, json; print json.load(sys.stdin)['hitokoto']"
 
 cd /data/www/resume/
 
