@@ -17,7 +17,7 @@ git pull origin master
 
 git push origin master
 
-git push coding master
+#git push coding master
 
 curl https://sc.ftqq.com/SCT106175TfTMJN6BtvfkOSiGkMaGKigV6.send?text="$TEXT"
 
