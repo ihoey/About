@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DATE=`date`
-TEXT=$(curl https://v1.hitokoto.cn | jq ".hitokoto")
+TEXT=$(curl https://v1.hitokoto.cn | jq -r ".hitokoto")
 
 cd /data/www/resume/
 
