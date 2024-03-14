@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DATE=`date`
-TEXT=$(curl https://v1.hitokoto.cn | python -c "import sys, json; reload(sys); sys.setdefaultencoding('utf8'); print json.load(sys.stdin)['hitokoto']")
+TEXT=$(curl https://v1.hitokoto.cn | jq ".hitokoto")
 
 cd /data/www/resume/
 
