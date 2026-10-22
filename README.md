@@ -8,9 +8,9 @@
 
 [![ihoey](https://count.getloli.com/get/@ihoey)](https://blog.ihoey.com)
 
-![Stats](./profile/stats.svg)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=ihoey&show_icons=true&theme=cobalt)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=ihoey&layout=compact&langs_count=6&theme=cobalt&hide=html)
 
 </center>
 
